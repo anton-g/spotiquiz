@@ -40,7 +40,7 @@
     "@vue/cli-service": "^3.0.5",
     "@vue/eslint-config-standard": "^3.0.5",
     "node-sass": "^4.7.2",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "sass-loader": "^6.0.6",
     "vue-axe": "^1.0.7",
     "vue-cli-plugin-i18n": "^0.5.0",
